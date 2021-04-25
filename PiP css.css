@@ -61,6 +61,7 @@ td {
     border-color: pink;
 }
 
+/* images */
 #eyelashes{
     padding-right: 10px;
 }
@@ -69,6 +70,8 @@ td {
     float: right;
     padding-left: 10px;
 }
+
+/* other */
 
 .products {
     text-align: center;
